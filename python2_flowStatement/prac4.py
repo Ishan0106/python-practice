@@ -2,7 +2,7 @@
 #     #
 #     #
 #     #
-#     if <condn1> :
+#     if <condn2> :
 #         break
 #     #
 #     #
