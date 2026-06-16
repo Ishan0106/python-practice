@@ -1,7 +1,7 @@
 # class string
 # find() , index() , endswith() , isalpha() , lower() , upper()
 
-# find(sub,start,end)
+# find(sub,start,end) -> RETURN FIRST INDEX OF SUBSTRING OR -1 IF NOT THERE
 # rfind(sub,start,end) it will search from back
 # index(sub,start,end)
 # rindex(sub,start,end)

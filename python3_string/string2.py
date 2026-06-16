@@ -10,7 +10,7 @@ print(s3)
 s2 = s1 * 5
 print(s2)
 
-# membership (in , not in)
+# membership (in , not in)  /////// IMPORTANT
 if 's' in s1:
     print('yes')
 else:
